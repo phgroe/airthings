@@ -1,3 +1,5 @@
+MIT License
+
 &copy; 2018 [Airthings AS](https://www.airthings.com/about-us)
 &copy; 2021 Philipp Gröschler
 
